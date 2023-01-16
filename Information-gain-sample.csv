@@ -1,0 +1,15 @@
+Credit,Age,Income,Education,Buy
+Good,Young,High,Good,No
+Excellent,Young,High,Good,No
+Good,Middle,High,Good,Yes
+Good,Old,Middle,Good,Yes
+Good,Old,High,Bad,Yes
+Excellent,Old,High,Bad,No
+Excellent,Middle,High,Bad,Yes
+Good,Young,Middle,Good,No
+Good,Young,High,Bad,Yes
+Good,Old,Middle,Bad,Yes
+Excellent,Young,Middle,Bad,Yes
+Excellent,Middle,Middle,Good,Yes
+Good,Middle,High,Bad,Yes
+Excellent,Old,Middle,Good,No
