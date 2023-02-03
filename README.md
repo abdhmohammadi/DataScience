@@ -1,6 +1,6 @@
 # DataScience
 Educational codes of data science
-
+-----
 this folder contains:
 
 *   Information Gain
