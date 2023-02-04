@@ -7,7 +7,6 @@ this folder contains:
 
     Python code to implimentation of Information Gain using Entropy and Gini methods
     
-*   Forward feature selection
-    *    flowchart for Forward selection
-    *    Python code for Forward selection
-
+*   Feature selection
+    
+    Python code and flowchart for Feature selection
