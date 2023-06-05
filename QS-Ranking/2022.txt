@@ -1,0 +1,241 @@
+<tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking top1" data-v-ae1ab4a8>
+1
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Massachusetts Institute of Technology (MIT)" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/79165fd8b.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/massachusetts-institute-of-technology-mit" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Massachusetts Institute of Technology (MIT)
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Massachusetts Institute of Technology (MIT)</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+354.5
+</td><td data-v-ae1ab4a8>
+58.3
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking top2" data-v-ae1ab4a8>
+2
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Stanford University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/13de8913b.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/stanford-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Stanford University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Stanford University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+320.6
+</td><td data-v-ae1ab4a8>
+53.8
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking top3" data-v-ae1ab4a8>
+3
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="University of California, Berkeley" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/0ff179fb8.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/university-of-california-berkeley" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+University of California, Berkeley
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>University of California, Berkeley</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+290.8
+</td><td data-v-ae1ab4a8>
+44.7
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+4
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Carnegie Mellon University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/e1f857b46.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/carnegie-mellon-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Carnegie Mellon University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Carnegie Mellon University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+279.9
+</td><td data-v-ae1ab4a8>
+53.8
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+5
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Tsinghua University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/27532357.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/tsinghua-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Tsinghua University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Tsinghua University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/cn.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+269.1
+</td><td data-v-ae1ab4a8>
+100.0
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+6
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Harvard University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/032bd1b77.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/harvard-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Harvard University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Harvard University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+253.8
+</td><td data-v-ae1ab4a8>
+57.3
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+7
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="ETH Zurich" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/690aaf016.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/eth-zurich" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+ETH Zurich
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>ETH Zurich</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/ch.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+248.0
+</td><td data-v-ae1ab4a8>
+51.6
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+8
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Nanyang Technological University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/f3d48b4a3.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/nanyang-technological-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Nanyang Technological University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Nanyang Technological University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/sg.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+245.4
+</td><td data-v-ae1ab4a8>
+87.5
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+9
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="University of Oxford" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/c1d967477.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/university-of-oxford" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+University of Oxford
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>University of Oxford</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/gb.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+237.9
+</td><td data-v-ae1ab4a8>
+47.8
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+10
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Princeton University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/b1dad5288.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/princeton-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Princeton University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Princeton University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+237.0
+</td><td data-v-ae1ab4a8>
+36.0
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+11
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Columbia University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/ce3421720.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/columbia-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Columbia University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Columbia University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+234.4
+</td><td data-v-ae1ab4a8>
+44.1
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+12
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="University of Electronic Science and Technology of China" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/55538407.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/university-of-electronic-science-and-technology-of-china" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+University of Electronic Science and Technology of China
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>University of Electronic Science and Technology of China</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/cn.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+230.5
+</td><td data-v-ae1ab4a8>
+96.9
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+13
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="National University of Singapore" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/31943e0cb.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/national-university-of-singapore" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+National University of Singapore
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>National University of Singapore</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/sg.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+229.7
+</td><td data-v-ae1ab4a8>
+68.7
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+14
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="University of California, Los Angeles" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/27bdc3879.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/university-of-california-los-angeles" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+University of California, Los Angeles
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>University of California, Los Angeles</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+228.4
+</td><td data-v-ae1ab4a8>
+39.9
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+15
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="University of Toronto" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/760dedb4f.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/university-of-toronto" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+University of Toronto
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>University of Toronto</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/ca.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+226.6
+</td><td data-v-ae1ab4a8>
+46.2
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+16
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Shanghai Jiao Tong University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/27403919.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/shanghai-jiao-tong-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Shanghai Jiao Tong University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Shanghai Jiao Tong University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/cn.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+225.9
+</td><td data-v-ae1ab4a8>
+89.6
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+17
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="University of Technology Sydney" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/1778c7bfd.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/university-of-technology-sydney" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+University of Technology Sydney
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>University of Technology Sydney</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/au.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+224.0
+</td><td data-v-ae1ab4a8>
+68.7
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+18
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Zhejiang University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/88311656.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/zhejiang-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Zhejiang University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Zhejiang University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/cn.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+222.4
+</td><td data-v-ae1ab4a8>
+88.0
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+19
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Peking University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/86350223.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/peking-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Peking University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Peking University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/cn.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+220.1
+</td><td data-v-ae1ab4a8>
+66.7
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+20
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="The Chinese University of Hong Kong" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/d7b4fe8fe.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/the-chinese-university-of-hong-kong" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+The Chinese University of Hong Kong
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>The Chinese University of Hong Kong</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/hk.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+219.2
+</td><td data-v-ae1ab4a8>
+60.4
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+21
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Huazhong University of Science and Technology" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/69664504.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/huazhong-university-of-science-and-technology" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Huazhong University of Science and Technology
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Huazhong University of Science and Technology</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/cn.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+218.7
+</td><td data-v-ae1ab4a8>
+93.8
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+22
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Cornell University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/e6c9fdb3e.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/cornell-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Cornell University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Cornell University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+218.3
+</td><td data-v-ae1ab4a8>
+36.9
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+23
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Beihang University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/22403670.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/beihang-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Beihang University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Beihang University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/cn.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+216.8
+</td><td data-v-ae1ab4a8>
+89.7
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+24
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Harbin Institute of Technology" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/88331082.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/harbin-institute-of-technology" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Harbin Institute of Technology
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Harbin Institute of Technology</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/cn.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+215.2
+</td><td data-v-ae1ab4a8>
+91.4
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+25
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="University of Southern California" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/f94b07167.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/university-of-southern-california" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+University of Southern California
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>University of Southern California</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+214.9
+</td><td data-v-ae1ab4a8>
+45.0
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+26
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Georgia Institute of Technology" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/ce6aa6357.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/georgia-institute-of-technology" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Georgia Institute of Technology
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Georgia Institute of Technology</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+214.8
+</td><td data-v-ae1ab4a8>
+54.0
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+26
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="Xidian University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/88267454.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/xidian-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+Xidian University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>Xidian University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/cn.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+214.8
+</td><td data-v-ae1ab4a8>
+97.3
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+28
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="New York University" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/d254e1d21.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/new-york-university" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+New York University
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>New York University</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/us.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+211.2
+</td><td data-v-ae1ab4a8>
+37.8
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+29
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="University of Sydney" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/6f7db18c8.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/university-of-sydney" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+University of Sydney
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>University of Sydney</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/au.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+210.7
+</td><td data-v-ae1ab4a8>
+57.9
+</td></tr><tr data-v-ae1ab4a8><td data-v-ae1ab4a8><div class="ranking" data-v-ae1ab4a8>
+30
+</div></td><td class="align-left" data-v-ae1ab4a8><div class="global-univ" data-v-ae1ab4a8><div class="logo" data-v-ae1ab4a8><img alt="University of Oslo" onerror='this.src="/images/default_logo.svg"' src="/_uni/logo/2d1aa99b3.png" class="univ-logo" data-v-ae1ab4a8></div> <div class="tooltip" data-v-021e266c data-v-ae1ab4a8><div class="link-container" data-v-021e266c><a href="/institution/university-of-oslo" data-v-021e266c><span class="univ-name" style="width:280px" data-v-021e266c>
+University of Oslo
+</span></a></div> <span class="tooltiptext shadow-xs" style="display:none" data-v-021e266c>University of Oslo</span></div></div></td><td data-v-ae1ab4a8><div class="region-img" style="background-image:url(/_pub/country-flags/png100/no.png)" data-v-ae1ab4a8></div></td><td data-v-ae1ab4a8>
+208.6
+</td><td data-v-ae1ab4a8>
+33.6
+</td></tr>
