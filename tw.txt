@@ -4,10 +4,7 @@ if kernel_name == 'rbf':
         C = numpy.vstack((A,B))
 
         H = numpy.hstack((K(A,C),e1))
-        G = numpy.hstack((K(B,C),e2))
-
-        self.K = K
-        self.C = C
+        G = numpy.hstack((K(B,C),e2)
 
     elif kernel_name == 'linear':
         K = linear_kernel
@@ -16,8 +13,6 @@ if kernel_name == 'rbf':
         H = numpy.hstack((K(A,C),e1))
         G = numpy.hstack((K(B,C),e2))     
         
-        self.K = K
-        self.C = C
     else:
 
         H = numpy.hstack((A,e1))
